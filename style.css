@@ -1,0 +1,14 @@
+header {
+    height: 100px;
+}
+#highscores {
+    text-align: left;
+    float: left;
+}
+#time {
+    text-align: right;
+    float: left;
+}
+button {
+    margin: 5px;
+}
